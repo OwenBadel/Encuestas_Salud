@@ -11,7 +11,11 @@
       "B",
       "D",
       "C",
-      "BC",
+      [
+        "B",
+        "C",
+        "BC"
+      ],
       "A",
       "C",
       "D",
@@ -19,7 +23,7 @@
     ],
     "should_explain_scoring": true
   },
-  "marking_scheme": {
+  "marking_schemes": {
     "DEFAULT": {
       "correct": "3",
       "incorrect": "-1",
