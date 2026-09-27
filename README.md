@@ -1,4 +1,12 @@
-# Sistema de Encuesta de Salud
+# Sistema de Encuestas de Salud
+
+---
+
+**Autor y Titular:** Owen Badel Hooker — Ingeniero de Sistemas  
+**GitHub:** [OwenBadel](https://github.com/OwenBadel)  
+**Repositorio Oficial:** [Encuestas_Salud](https://github.com/OwenBadel/Encuestas_Salud)  
+
+---
 
 Aplicación web local para cargar cuestionarios PDF de factores de riesgo psicosocial intralaboral **Forma A**, detectar las respuestas marcadas y almacenarlas de forma estructurada en MySQL.
 
