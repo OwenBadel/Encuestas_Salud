@@ -71,7 +71,7 @@ según la pregunta. La agrupación de dominios y dimensiones sigue la Tabla 23 d
 
 ```powershell
 .\.venv\Scripts\python.exe scripts\verify_sample.py `
-  "./data (1).pdf"
+  "samples\cuestionario_ejemplo.pdf"
 ```
 
 El control esperado es: ID `653118`, 4 páginas, 114 respuestas aplicables, clientes `Sí`, jefe `No`, sin advertencias.

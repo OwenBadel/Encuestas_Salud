@@ -9,9 +9,7 @@ from app.analytics import DIMENSIONS, DOMAIN_LABELS, QUESTION_TO_DIMENSION, summ
 from app.omr import extract_survey
 
 
-DEFAULT_SAMPLE = Path(
-    r"./data (1).pdf"
-)
+DEFAULT_SAMPLE = Path("samples/cuestionario_ejemplo.pdf")
 
 
 def sample_path() -> Path:

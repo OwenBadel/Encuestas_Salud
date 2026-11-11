@@ -10,10 +10,8 @@ from app.omr import SurveyExtractionError, extract_survey
 from app.questionnaire import QUESTION_TEXTS, applicability, expected_question_numbers
 
 
-DEFAULT_SAMPLE = Path(
-    r"./data (1).pdf"
-)
-SCANNED_SAMPLE = Path(r"./data")
+DEFAULT_SAMPLE = Path("samples/cuestionario_ejemplo.pdf")
+SCANNED_SAMPLE = Path("samples/cuestionario_escaneado.pdf")
 
 
 def sample_path() -> Path:
